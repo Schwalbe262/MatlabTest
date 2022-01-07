@@ -1,4 +1,5 @@
 function [el,az] = satellitefix(t,p,obsloc)
+% aa
 % Determines local azimuth and elevation of a satellite at given times
 %
 % [EL,AZ] = SATELLITEFIX(T,PARAMS,OBS) calculates the elevation (EL), in
